@@ -62,3 +62,14 @@ Enter into the Terminal:
 `export JAVA_HOME=/usr/lib/jvm/openjdk-11-jdk`
 `export PATH=$PATH:$JAVA_HOME/bin`
 Verify the installation by entering `java -version`. It shoud give back something similar to `openjdk version "11.0.8" 2020-07-14` and a few other lines after.
+
+
+## Running the game
+Unfortunately, you can't install the game very easily. There are various methods for running the file, however, I will show you what I think is the easiest for each platform.
+
+### Windows 10
+Download **BlackBox.jar** to your Donwloads folder. If you want to choose a different folder, change the command below (if you're sure you can figure it out).
+Right click on your desktop and choose New > Shortcut.
+Type `"C:\Windows\System32\cmd.exe" /k java -jar %UserProfile%\Downloads\BlackBox.jar` and click `Next`.
+Type a name for the shortcut (should use "BlackBox") and click `Finish`.
+Double-click the icon with the name you entered (probably "BlackBox") and the game shoud run.
