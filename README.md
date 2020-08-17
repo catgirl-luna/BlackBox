@@ -68,8 +68,22 @@ Verify the installation by entering `java -version`. It shoud give back somethin
 Unfortunately, you can't install the game very easily. There are various methods for running the file, however, I will show you what I think is the easiest for each platform.
 
 ### Windows 10
-Download **BlackBox.jar** to your Donwloads folder. If you want to choose a different folder, change the command below (if you're sure you can figure it out).
+Download **BlackBox.jar** to your Downloads folder. If you want to choose a different folder, change what you type below (if you're sure you can figure it out).
 Right click on your desktop and choose New > Shortcut.
 Type `"C:\Windows\System32\cmd.exe" /k java -jar %UserProfile%\Downloads\BlackBox.jar` and click `Next`.
 Type a name for the shortcut (should use "BlackBox") and click `Finish`.
 Double-click the icon with the name you entered (probably "BlackBox") and the game shoud run.
+
+### MacOS X
+Download **BlackBox.jar** to your Downloads folder. If you want to choose a different folder, change what you type below (if you're sure you can figure it out).
+Open the application "TextEdit" and click "New Document".
+Type `#!/bin/bash
+java -jar ~/Downloads/BlackBox.jar`
+Click Format > Make Plain Text
+Click File > Save
+Save it as something you can remember (should use "BlackBox") and save to your desktop.
+Uncheck the box that says "If no extension is provided, use '.txt'."
+Open "Terminal" and type `chmod 755 ~/Desktop/BlackBox`
+Now double-click on the file labled "BlackBox" on your Desktop and the game should run.
+
+### Linux
