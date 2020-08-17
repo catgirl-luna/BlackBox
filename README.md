@@ -177,4 +177,10 @@ Some Linux distros may vary slightly, but this should work.
 
 <a href="#top" target="_self">[Table of Contents]</a>
 
+---
+
+### <a name="Advanced"></a> Advanced
+
 *DISCLAIMER: This README.md file was made for Github's formatting. It may display differently on other Markdown previewers/parsers.*
+
+If you want to get the source code, download the "src" and "resource" directories. Compiling these (unchanged) will create a file identical to BlackBox.jar. Make sure to read the [license](https://github.com/odnahaon/BlackBox/blob/master/LICENSE)!
