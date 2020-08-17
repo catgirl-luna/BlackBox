@@ -24,7 +24,9 @@ More detailed instructions instead of theirs to make it easier:
 1. Download from their link to your Downloads folder. Open the app called "Powershell" or "Terminal" and enter: `cd %UserProfile%\Downloads`
 2. Skip their 2nd step unless you know what it's for and how to use it.
 3. Continue with their instructions starting with 3.
+
 ---
+
 ### MacOS X
 Instructions can be found here, as well as the download links:
 
@@ -36,7 +38,9 @@ More detailed instructions instead of theirs to make it easier:
 1. Download from their link to your Downloads folder. Open the app called "Terminal" and enter: `cd ~/Downloads`
 2. Skip their 2nd step unless you know what it's for and how to use it.
 3. Continue with their instructions starting with 3.
+
 ---
+
 ### Linux
 #### Debian-based
 **Examples: Debian, Ubuntu, Mint, Kubuntu, Rasberry Pi OS**
@@ -77,15 +81,19 @@ Verify the installation by entering `java -version`. It shoud give back somethin
 Unfortunately, you can't install the game very easily. There are various methods for running the file, however, I will show you what I think is the easiest for each platform.
 To download BlackBox.jar, click [this link](https://github.com/odnahaon/BlackBox/raw/master/BlackBox.jar). Refer to your system's instructions for where to download it.
 
-**IMPORTANT! Do not delete BlackBox.jar or the file you create in the instructions below. Deleting either will mean that you will have to recreate them to make the game run.**
+WARNING! Do not delete BlackBox.jar or the file you create in the instructions below. Deleting either will mean that you will have to recreate them to make the game run.
+
 ---
+
 ### Windows 10
 Download **BlackBox.jar** to your Downloads folder. If you want to choose a different folder, change what you type below (if you're sure you can figure it out).
 Right click on your desktop and choose New > Shortcut.
 Type `"C:\Windows\System32\cmd.exe" /k java -jar %UserProfile%\Downloads\BlackBox.jar` and click `Next`.
 Type a name for the shortcut (should use "BlackBox") and click `Finish`.
 Double-click the icon with the name you entered (probably "BlackBox") and the game shoud run.
+
 ---
+
 ### MacOS X
 Download **BlackBox.jar** to your Downloads folder. If you want to choose a different folder, change what you type below (if you're sure you can figure it out).
 Open the application "TextEdit" and click "New Document".
@@ -97,7 +105,9 @@ Save it as something you can remember (should use "BlackBox") and save to your d
 Uncheck the box that says "If no extension is provided, use '.txt'."
 Open "Terminal" and type `chmod 755 ~/Desktop/BlackBox`
 Now double-click on the file labled "BlackBox" on your Desktop and the game should run.
+
 ---
+
 ### Linux
 Download **BlackBox.jar** to your Downloads folder. If you want to choose a different folder, change what you type below (if you're sure you can figure it out).
 Open your favorite text editor. Some defaults are:
