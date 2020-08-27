@@ -8,7 +8,7 @@
 # BlackBox
 The game I made for my 8th grade project at Camellia. More info can be found under the Help tab in-game.
 The game is coded with desktop and laptop computers in mind, specifically, Windows, Mac, and Linux. It can be run on Solaris, but it's very unlikely anyone would want to run this on Solaris specifically.
-Installation may seem like a complicated process, but underneath I wrote out step-by-step instructions fow different platforms.
+Installation may seem like a complicated process, but underneath I wrote out step-by-step instructions for different platforms.
 <a name=top>
 
 ## Table of Contents
