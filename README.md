@@ -41,18 +41,13 @@ If it does not say version 11 or gives an error, make sure you have typed it cor
 ### <a name="JIWindows"></a>Windows 10
 Instructions can be found here, as well as the download links:
 
-[64-bit](https://adoptopenjdk.net/installation.html#x64_win-jre)
+[64-bit](https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.8%2B10/OpenJDK11U-jre_x64_windows_hotspot_11.0.8_10.msi)
 
-[32-bit](https://adoptopenjdk.net/installation.html#x86-32_win-jre)
+[32-bit](https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.8%2B10/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.8_10.msi)
 
 If you do not know whether your computer is 32-bit or 64-bit follow these instructions:
 Press and hold your Windows key and Pause key. A new window should pop up.
 Find the text "System type:" and it should say 32-bit or 64-bit after.
-
-More detailed instructions instead of theirs to make it easier: 
-1. Download from their link to your Downloads folder. Open the app called "Powershell" or "Terminal" and enter: `cd %UserProfile%\Downloads`
-2. Skip their 2nd step unless you know what it's for and how to use it.
-3. Continue with their instructions starting with 3.
 
 <a href="#top" target="_self">[Table of Contents]</a>
 
@@ -61,14 +56,9 @@ More detailed instructions instead of theirs to make it easier:
 ### <a name="JIMacOS"></a>Mac OS X
 Instructions can be found here, as well as the download links:
 
-[64-bit](https://adoptopenjdk.net/installation.html#x64_mac-jre)
+[64-bit](https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.8%2B10/OpenJDK11U-jre_x64_mac_hotspot_11.0.8_10.pkg)
 
 Most modern Macs are 64-bit, so I will not put instructions for 32-bit Macs.
-
-More detailed instructions instead of theirs to make it easier: 
-1. Download from their link to your Downloads folder. Open the app called "Terminal" and enter: `cd ~/Downloads`
-2. Skip their 2nd step unless you know what it's for and how to use it.
-3. Continue with their instructions starting with 3.
 
 <a href="#top" target="_self">[Table of Contents]</a>
 
